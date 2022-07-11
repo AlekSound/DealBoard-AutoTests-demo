@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Projects/DealBoard/V2/DealBoardTNGv2/src/test/java"><classes><class name="tests.Tests"><methods><include name="checkOfPageLoading"/><include name="authIsCorrect_Header"/><include name="authIsIncorrectName_Header"/><include name="authIsIncorrectPass_Header"/><include name="authWithEmptyName_Header"/><include name="authWithEmptyPass_Header"/></methods></class></classes></test></suite>
